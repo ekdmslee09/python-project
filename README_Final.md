@@ -5,7 +5,7 @@
  
 ## 실행 방법
 1. Python 3.10 이상 설치
-2. Python Final.py 실행
+2. python Final.py 실행
  
 ## 사용된 Python 개념
 - 리스트, 딕셔너리, 조건문, 반복문, 함수, 예외 처리
